@@ -1,8 +1,145 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<!-- 🖼️ POSTER / BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=250&section=header&text=Hi%20There,%20I'm%20Prajwal%20Wankhede&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20%2F%20AI%20Enthusiast&descAlignY=55&descSize=18" width="100%" alt="poster banner"/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<!-- TYPING INTRO -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2575FC&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;Data+Scientist+%7C+ML+%2F+AI+Enthusiast;Studying+PG-DAC+%40+CDAC+Kharghar;Always+learning%2C+always+building." alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- SOCIAL BADGES -->
+<a href="https://www.linkedin.com/in/prajwal-wankhede-22388628a" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:prajwalwankhede890@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+<br/>
+
+## 🚀 About Me
+
+- 🔭 I'm currently studying **PG-DAC (AI specialization) at CDAC Kharghar**
+- 🌱 I'm currently learning **PGCP-AI at CDAC Kharghar**
+- 👯 I'm looking to collaborate on **Machine Learning, AI, and Backend projects**
+- 💬 Ask me about **Python, ML/DL, or Data Science**
+- ⚡ Fun fact: **I love turning messy data into working models!**
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=prajwal-sv&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal-sv&layout=compact&theme=radical&hide_border=true" alt="Top Langs"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prajwal-sv&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prajwal-sv&theme=react-dark&hide_border=true" alt="Activity Graph" width="100%"/>
+</div>
+
+<br/>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=prajwal-sv&theme=radical&no-frame=true&row=1&column=7" alt="trophies"/>
+</div>
+
+<br/>
+<br/>
+
+<!-- ===========================================================
+     🐍 SNAKE GAME (Contribution Graph Animation)
+     Generated by a GitHub Action — see setup steps below.
+     =========================================================== -->
+
+<div align="center">
+
+### 🐍 My Contribution Snake
+
+<img src="https://raw.githubusercontent.com/prajwal-sv/prajwal-sv/output/github-contribution-grid-snake-dark.svg" alt="snake game" width="100%"/>
+
+</div>
+
+<div align="center">
+  <sub>Made with ❤️ • Thanks for visiting my profile!</sub>
+</div>
+
+<!--
+  ===========================================================
+  🔧 HOW TO ACTIVATE THE SNAKE GAME (one-time setup, ~2 min)
+  ===========================================================
+  1. Create a repo named exactly "prajwal-sv" (same as your
+     username) if you don't already have one — GitHub auto-shows
+     this repo's README on your profile page.
+
+  2. In that repo: Settings → Actions → General → under
+     "Workflow permissions" select "Read and write permissions",
+     then Save.
+
+  3. Add a file at: .github/workflows/snake.yml with this content:
+
+     name: Generate Snake
+     on:
+       schedule:
+         - cron: "0 */6 * * *"   # runs every 6 hours
+       workflow_dispatch: {}
+       push:
+         branches: [ main ]
+     jobs:
+       generate:
+         runs-on: ubuntu-latest
+         steps:
+           - uses: actions/checkout@v4
+           - uses: Platane/snk@v3
+             id: snake
+             with:
+               github_user_name: prajwal-sv
+               outputs: |
+                 dist/github-contribution-grid-snake.svg
+                 dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+           - uses: crazy-max/ghaction-github-pages@v4
+             with:
+               target_branch: output
+               build_dir: dist
+             env:
+               GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  4. Commit the workflow file, go to the Actions tab, and run the
+     "Generate Snake" workflow once manually. This creates an
+     "output" branch containing the SVG files that the <img> above
+     points to.
+
+  5. Done — the snake auto-refreshes every 6 hours, animating your
+     latest contribution graph.
+  ===========================================================
+-->
