@@ -54,12 +54,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=prajwal-sv&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal-sv&layout=compact&theme=radical&hide_border=true" alt="Top Langs"/>
+  <img height="165" src="https://gh-stats.work/api?username=prajwal-sv&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
+  <img height="165" src="https://gh-stats.work/api/top-langs/?username=prajwal-sv&layout=compact&theme=radical&hide_border=true" alt="Top Langs"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prajwal-sv&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=prajwal-sv&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
@@ -73,6 +73,38 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=prajwal-sv&theme=radical&no-frame=true&row=1&column=7" alt="trophies"/>
 </div>
+
+<!--
+  ℹ️ A NOTE ON THIRD-PARTY BADGE SERVICES
+  ===========================================================
+  The stats/top-langs cards above now use https://gh-stats.work
+  (a Cloudflare-based mirror) and the streak card uses
+  https://streak-stats.demolab.com — both more reliable than the
+  original https://github-readme-stats.vercel.app and
+  https://github-readme-streak-stats.herokuapp.com, which are
+  free public demos that periodically get rate-limited or paused
+  by their maintainers (this is a known, recurring issue — not
+  something wrong with your repo).
+
+  The trophies card still points at
+  https://github-profile-trophy.vercel.app. If it ever shows a
+  broken image or a "Deployment is paused" error like the stats
+  card did, that service is having the same issue. Quick fixes,
+  in order of effort:
+    1. Wait a bit and hard-refresh — these often come back on
+       their own once traffic/usage resets.
+    2. Fork the project (anuraghazra/github-readme-stats or
+       ryo-ma/github-profile-trophy) and deploy your own free
+       copy on vercel.com — this never gets rate-limited by
+       other users. Then swap the domain in the <img> src.
+    3. For a fully self-contained, zero-third-party-dependency
+       setup (stats + langs + trophies + activity, all in one),
+       consider replacing these cards with the "lowlighter/metrics"
+       GitHub Action, which renders everything as a static SVG
+       committed to your own repo via a scheduled workflow — the
+       same pattern already used for the snake game below.
+  ===========================================================
+-->
 
 <br/>
 <br/>
