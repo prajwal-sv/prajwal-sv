@@ -4,7 +4,7 @@
 
 <!-- Replace this with your own anime samurai banner image URL when available -->
 
-<img src="YOUR_DARK_ANIME_SAMURAI_IMAGE_URL" width="85%" alt="Dark anime samurai banner"/>
+<img src="./assets/dark-anime-banner.gif" width="85%" alt="Dark anime samurai banner"/>
 
 <br/>
 
@@ -35,7 +35,7 @@
 
 ## 🩸 ABOUT THE DEVELOPER
 
-<img align="right" width="240" src="YOUR_ANIME_WARRIOR_GIF_URL" alt="Anime warrior"/>
+<img align="right" width="240" src="./assets/anime-warrior.gif" alt="Anime warrior"/>
 
 Hey! I'm **Prajwal Wankhede**, an AI/ML Engineer from India 🇮🇳.
 
