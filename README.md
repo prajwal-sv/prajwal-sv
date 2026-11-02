@@ -125,36 +125,6 @@ developer = Prajwal()
 
 </div>
 
-**📌 Project Overview**
-
-An end-to-end Python data analysis project exploring approximately **119K hotel bookings** to understand cancellation patterns and protect booking revenue.
-
-**What I explored:**
-
-- Data cleaning and preprocessing.
-- Exploratory Data Analysis (EDA).
-- Five statistical hypothesis tests.
-- Cancellation patterns and booking behavior.
-- Revenue impact analysis.
-- Ranked recommendations for reducing cancellations.
-
-<details>
-<summary><b>📊 Key Findings</b></summary>
-
-- Approximately 27.7% of bookings were cancelled.
-- Cancelled bookings represented approximately 33% of booking value.
-- Statistical testing helped investigate patterns and support business recommendations.
-
-</details>
-
-**Tech Stack:** Python · Pandas · NumPy · Matplotlib · Seaborn · Statistics
-
-**Repository:** [Explore Hotel Booking Analysis](https://github.com/prajwal-sv/hotel-booking-analysis)
-
----
-
-<div align="center">
-
 ## 📈 GITHUB STATISTICS
 
 <div align="center">
