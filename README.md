@@ -1,177 +1,291 @@
-<div align="center">
+ <div align="center">
 
-<!-- 🖼️ POSTER / BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=250&section=header&text=Hi%20There,%20I'm%20Prajwal%20Wankhede&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20%2F%20AI%20Enthusiast&descAlignY=55&descSize=18" width="100%" alt="poster banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:080808,35:300018,70:79001F,100:160B30&text=PRAJWAL%20WANKHEDE&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=NEURAL%20SHADOW%20%7C%20AI%2FML%20ENGINEER&descSize=17&descAlignY=60&descColor=FF4D6D" width="100%" />
 
-<!-- TYPING INTRO -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2575FC&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;Data+Scientist+%7C+ML+%2F+AI+Enthusiast;Studying+PG-DAC+%40+CDAC+Kharghar;Always+learning%2C+always+building." alt="Typing SVG" />
+<!-- Replace this with your own anime samurai banner image URL when available -->
+
+<img src="YOUR_DARK_ANIME_SAMURAI_IMAGE_URL" width="85%" alt="Dark anime samurai banner"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2800&pause=900&color=FF3355&center=true&vCenter=true&width=800&lines=Welcome+to+my+digital+world+%F0%9F%8C%91;AI%2FML+Engineer+%F0%9F%A4%96;Machine+Learning+Enthusiast+%F0%9F%A7%A0;Experimenting+with+Artificial+Intelligence;Create+something+that+doesn't+exist+yet+%E2%9C%A8" alt="Typing animation"/>
+
+### ⚔️ AI/ML Engineer | Python Developer | Creative Experimenter
+
+**「Create something that doesn't exist yet.」**
+
+<br/>
+
+<a href="https://github.com/prajwal-sv">
+<img src="https://img.shields.io/badge/GitHub-prajwal--sv-171717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/prajwal-wankhede-22388628a">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="mailto:prajwalwankhede890@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br/>
 
-<!-- SOCIAL BADGES -->
-<a href="https://www.linkedin.com/in/prajwal-wankhede-22388628a" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://komarev.com/ghpvc/?username=prajwal-sv&style=for-the-badge&color=DC143C&label=PROFILE+VISITORS"/>
+
+</div>
+
+---
+
+## 🩸 ABOUT THE DEVELOPER
+
+<img align="right" width="240" src="YOUR_ANIME_WARRIOR_GIF_URL" alt="Anime warrior"/>
+
+Hey! I'm **Prajwal Wankhede**, an AI/ML Engineer from India 🇮🇳.
+
+I'm passionate about exploring the intersection of artificial intelligence, data science, and real-world problem-solving.
+
+I enjoy experimenting with algorithms, transforming raw data into meaningful insights, and building intelligent applications.
+
+```python
+class Prajwal:
+
+    def __init__(self):
+        self.name = "Prajwal Wankhede"
+        self.username = "prajwal-sv"
+        self.location = "India 🇮🇳"
+        self.role = "AI/ML Engineer"
+        self.primary_language = "Python"
+
+        self.focus = [
+            "Machine Learning",
+            "Deep Learning",
+            "Computer Vision",
+            "NLP",
+            "RAG",
+            "Data Science"
+        ]
+
+        self.current_mission = "Build something extraordinary"
+
+    def motto(self):
+    
+        return "Create something that doesn't exist yet ✨"
+
+
+developer = Prajwal()
+```
+
+- 🧠 Exploring Machine Learning and Deep Learning.
+- 🤖 Experimenting with intelligent AI applications.
+- 📊 Turning complex datasets into actionable insights.
+- 🌆 Interested in real-world urban intelligence projects.
+- 🔬 Learning through experimentation and building.
+- 🎧 Coding with anime soundtracks.
+- ⚔️ Always ready for the next challenge.
+
+<br clear="right"/>
+
+---
+
+## ⚡ MY TECH ARSENAL
+
+<div align="center">
+
+### 💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,mysql&theme=dark" />
+
+### 🧠 AI / Machine Learning
+
+<img src="https://img.shields.io/badge/Machine%20Learning-DC143C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-6A0DAD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-24292E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-8B0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-483D8B?style=for-the-badge"/>
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+
+### 📊 Data Science
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+
+### 🌐 Development & Frameworks
+
+<img src="https://skillicons.dev/icons?i=html,fastapi,flask,django,streamlit,mongodb,mysql&theme=dark"/>
+
+### 🛠️ Tools & Environment
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,jupyter&theme=dark"/>
+
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
+
+</div>
+
+---
+
+## 🚀 FEATURED PROJECTS
+
+<div align="center">
+
+### 01 — HOTEL BOOKING ANALYSIS
+
+<a href="https://github.com/prajwal-sv/hotel-booking-analysis">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=prajwal-sv&repo=hotel-booking-analysis&theme=dark&bg_color=0D1117&title_color=FF3355&icon_color=FF3355&text_color=FFFFFF&hide_border=true" width="90%"/>
 </a>
-<a href="mailto:prajwalwankhede890@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+
+</div>
+
+**📌 Project Overview**
+
+An end-to-end Python data analysis project exploring approximately **119K hotel bookings** to understand cancellation patterns and protect booking revenue.
+
+**What I explored:**
+
+- Data cleaning and preprocessing.
+- Exploratory Data Analysis (EDA).
+- Five statistical hypothesis tests.
+- Cancellation patterns and booking behavior.
+- Revenue impact analysis.
+- Ranked recommendations for reducing cancellations.
+
+<details>
+<summary><b>📊 Key Findings</b></summary>
+
+- Approximately 27.7% of bookings were cancelled.
+- Cancelled bookings represented approximately 33% of booking value.
+- Statistical testing helped investigate patterns and support business recommendations.
+
+</details>
+
+**Tech Stack:** Python · Pandas · NumPy · Matplotlib · Seaborn · Statistics
+
+**Repository:** [Explore Hotel Booking Analysis](https://github.com/prajwal-sv/hotel-booking-analysis)
+
+---
+
+<div align="center">
+
+### 02 — MUHAQI 🌆
+
+**Mumbai Urban Heat & Air Quality Intelligence**
+
+<a href="https://github.com/prajwal-sv/Mumbai-Urban-Heat---Air-Quality-Intelligence--MUHAQI-">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=prajwal-sv&repo=Mumbai-Urban-Heat---Air-Quality-Intelligence--MUHAQI-&theme=dark&bg_color=0D1117&title_color=FF3355&icon_color=FF3355&text_color=FFFFFF&hide_border=true" width="90%"/>
 </a>
 
 </div>
 
-<br/>
+**📌 Project Overview**
 
-## 🚀 About Me
+An urban intelligence project focused on Mumbai's heat and air-quality challenges.
 
-- 🔭 I'm currently studying **PG-DAC (AI specialization) at CDAC Kharghar**
-- 🌱 I'm currently learning **PGCP-AI at CDAC Kharghar**
-- 👯 I'm looking to collaborate on **Machine Learning, AI, and Backend projects**
-- 💬 Ask me about **Python, ML/DL, or Data Science**
-- ⚡ Fun fact: **I love turning messy data into working models!**
+**Project focus:**
 
-<br/>
+- 🌡️ Mumbai's urban heat conditions.
+- 🌫️ Air-quality analysis.
+- 🏙️ Urban environmental intelligence.
+- 📍 Understanding environmental patterns across Mumbai.
 
-## 🛠️ Tech Stack
+**Repository:** [Explore MUHAQI](https://github.com/prajwal-sv/Mumbai-Urban-Heat---Air-Quality-Intelligence--MUHAQI-)
 
-<div align="center">
+---
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://gh-stats.work/api?username=prajwal-sv&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
-  <img height="165" src="https://gh-stats.work/api/top-langs/?username=prajwal-sv&layout=compact&theme=radical&hide_border=true" alt="Top Langs"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=prajwal-sv&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prajwal-sv&theme=react-dark&hide_border=true" alt="Activity Graph" width="100%"/>
-</div>
-
-<br/>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prajwal-sv&theme=radical&no-frame=true&row=1&column=7" alt="trophies"/>
-</div>
-
-<!--
-  ℹ️ A NOTE ON THIRD-PARTY BADGE SERVICES
-  ===========================================================
-  The stats/top-langs cards above now use https://gh-stats.work
-  (a Cloudflare-based mirror) and the streak card uses
-  https://streak-stats.demolab.com — both more reliable than the
-  original https://github-readme-stats.vercel.app and
-  https://github-readme-streak-stats.herokuapp.com, which are
-  free public demos that periodically get rate-limited or paused
-  by their maintainers (this is a known, recurring issue — not
-  something wrong with your repo).
-
-  The trophies card still points at
-  https://github-profile-trophy.vercel.app. If it ever shows a
-  broken image or a "Deployment is paused" error like the stats
-  card did, that service is having the same issue. Quick fixes,
-  in order of effort:
-    1. Wait a bit and hard-refresh — these often come back on
-       their own once traffic/usage resets.
-    2. Fork the project (anuraghazra/github-readme-stats or
-       ryo-ma/github-profile-trophy) and deploy your own free
-       copy on vercel.com — this never gets rate-limited by
-       other users. Then swap the domain in the <img> src.
-    3. For a fully self-contained, zero-third-party-dependency
-       setup (stats + langs + trophies + activity, all in one),
-       consider replacing these cards with the "lowlighter/metrics"
-       GitHub Action, which renders everything as a static SVG
-       committed to your own repo via a scheduled workflow — the
-       same pattern already used for the snake game below.
-  ===========================================================
--->
-
-<br/>
-<br/>
-
-<!-- ===========================================================
-     🐍 SNAKE GAME (Contribution Graph Animation)
-     Generated by a GitHub Action — see setup steps below.
-     =========================================================== -->
+## 📈 GITHUB STATISTICS
 
 <div align="center">
 
-### 🐍 My Contribution Snake
+<img width="95%" src="https://github-readme-stats.vercel.app/api?username=prajwal-sv&show_icons=true&count_private=true&include_all_commits=true&theme=dark&bg_color=0D1117&title_color=FF3355&icon_color=FF3355&text_color=FFFFFF&hide_border=true&rank_icon=github" />
 
-<img src="https://raw.githubusercontent.com/prajwal-sv/prajwal-sv/output/github-contribution-grid-snake-dark.svg" alt="snake game" width="100%"/>
+<br/><br/>
+
+<img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal-sv&layout=compact&langs_count=10&theme=dark&bg_color=0D1117&title_color=FF3355&text_color=FFFFFF&hide_border=true" />
+
+<br/><br/>
+
+<img width="95%" src="https://streak-stats.demolab.com?user=prajwal-sv&theme=dark&background=0D1117&ring=FF3355&fire=FF3355&currStreakLabel=FF3355&hide_border=true" />
 
 </div>
+
+---
+
+## 🔥 CONTRIBUTION ACTIVITY
 
 <div align="center">
-  <sub>Made with ❤️ • Thanks for visiting my profile!</sub>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=prajwal-sv&bg_color=0D1117&color=FF3355&line=8B0000&point=FFFFFF&area=true&hide_border=true&custom_title=MY%20CODING%20JOURNEY" />
+
 </div>
 
-<!--
-  ===========================================================
-  🔧 HOW TO ACTIVATE THE SNAKE GAME (one-time setup, ~2 min)
-  ===========================================================
-  1. Create a repo named exactly "prajwal-sv" (same as your
-     username) if you don't already have one — GitHub auto-shows
-     this repo's README on your profile page.
+---
 
-  2. In that repo: Settings → Actions → General → under
-     "Workflow permissions" select "Read and write permissions",
-     then Save.
+## 🐍 THE CONTRIBUTION SNAKE
 
-  3. Add a file at: .github/workflows/snake.yml with this content:
+<div align="center">
 
-     name: Generate Snake
-     on:
-       schedule:
-         - cron: "0 */6 * * *"   # runs every 6 hours
-       workflow_dispatch: {}
-       push:
-         branches: [ main ]
-     jobs:
-       generate:
-         runs-on: ubuntu-latest
-         steps:
-           - uses: actions/checkout@v4
-           - uses: Platane/snk@v3
-             id: snake
-             with:
-               github_user_name: prajwal-sv
-               outputs: |
-                 dist/github-contribution-grid-snake.svg
-                 dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-           - uses: crazy-max/ghaction-github-pages@v4
-             with:
-               target_branch: output
-               build_dir: dist
-             env:
-               GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+<img src="https://raw.githubusercontent.com/prajwal-sv/prajwal-sv/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation"/>
 
-  4. Commit the workflow file, go to the Actions tab, and run the
-     "Generate Snake" workflow once manually. This creates an
-     "output" branch containing the SVG files that the <img> above
-     points to.
+</div>
 
-  5. Done — the snake auto-refreshes every 6 hours, animating your
-     latest contribution graph.
-  ===========================================================
--->
+---
+
+## 🏆 GITHUB TROPHIES
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=prajwal-sv&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4" width="100%" />
+
+</div>
+
+---
+
+## 🎧 MY CODING SOUNDTRACK
+
+<div align="center">
+
+**Current coding atmosphere:**
+
+⚔️ Anime Soundtracks · Epic OSTs · Focus Mode
+
+*Every great mission deserves a great soundtrack.*
+
+<!-- Optional: Add your Spotify widget when you have a Spotify profile -->
+
+</div>
+
+---
+
+## 🌐 CONNECT WITH ME
+
+<div align="center">
+
+<a href="https://github.com/prajwal-sv">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/prajwal-wankhede-22388628a">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:prajwalwankhede890@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚔️ FINAL TRANSMISSION
+
+**"The limits of my world are the limits of my imagination."**
+
+*Code with purpose. Experiment without fear. Create the impossible.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:160B30,45:79001F,100:080808&height=140&section=footer" width="100%"/>
+
+</div>
+
