@@ -35,7 +35,7 @@
 
 ## 🩸 ABOUT THE DEVELOPER
 
-<img align="right" width="240" src="./assets/anime-warrior.gif" alt="Anime warrior"/>
+<img align="right" width="240" src="./assets/anime-warrior.jpg" alt="Anime warrior"/>
 
 Hey! I'm **Prajwal Wankhede**, an AI/ML Engineer from India 🇮🇳.
 
@@ -159,15 +159,7 @@ An end-to-end Python data analysis project exploring approximately **119K hotel 
 
 <div align="center">
 
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prajwal-sv&theme=github_dark" alt="GitHub profile statistics" />
-
-<br/><br/>
-
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prajwal-sv&theme=github_dark" alt="Most used languages in public repositories" />
-
-<br/><br/>
-
-<img width="95%" src="https://streak-stats.demolab.com?user=prajwal-sv&theme=dark&background=0D1117&ring=FF3355&fire=FF3355&currStreakLabel=FF3355&hide_border=true" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prajwal-sv&theme=github_dark" alt="GitHub profile statistics" /><img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prajwal-sv&theme=github_dark" alt="Most used languages in public repositories" /><img width="32%" src="https://streak-stats.demolab.com?user=prajwal-sv&theme=dark&background=0D1117&ring=FF3355&fire=FF3355&currStreakLabel=FF3355&hide_border=true" alt="GitHub contribution streak" />
 
 </div>
 
