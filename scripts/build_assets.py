@@ -174,9 +174,53 @@ def divider():
     (ASSETS / "divider.svg").write_text(svg)
 
 
+def loss_curve():
+    """Animated, illustrative training curves (not real metrics)."""
+    import math
+    random.seed(11)
+    W, H = 800, 270
+    x0, x1, y0, y1 = 70, 770, 60, 215
+    def X(e): return x0 + (x1 - x0) * e / 100
+    def Y(v): return y1 - (y1 - y0) * v / 1.8
+    tr, va = [], []
+    for e in range(0, 101, 2):
+        base = 1.6 * math.exp(-e / 20) + 0.10
+        tr.append((X(e), Y(base + random.uniform(-0.015, 0.015))))
+        va.append((X(e), Y(base * 1.08 + 0.05 + 0.04 * math.sin(e / 9) * math.exp(-e / 60) + random.uniform(-0.02, 0.02))))
+    d_tr = "M" + " L".join(f"{x:.1f},{y:.1f}" for x, y in tr)
+    d_va = "M" + " L".join(f"{x:.1f},{y:.1f}" for x, y in va)
+    grid = ""
+    for v in (0, 0.5, 1.0, 1.5):
+        grid += (f'<line x1="{x0}" y1="{Y(v):.1f}" x2="{x1}" y2="{Y(v):.1f}" stroke="{LINE}" stroke-dasharray="2 5"/>'
+                 f'<text x="{x0 - 10}" y="{Y(v) + 4:.1f}" text-anchor="end" fill="{GRAY}" font-size="11">{v:.1f}</text>')
+    for e in (0, 25, 50, 75, 100):
+        grid += f'<text x="{X(e):.1f}" y="{y1 + 20}" text-anchor="middle" fill="{GRAY}" font-size="11">{e}</text>'
+    T = 12
+    kt = "0;0.35;0.9;1"
+    def line(d, col, width):
+        return (f'<path d="{d}" fill="none" stroke="{col}" stroke-width="{width}" stroke-linecap="round" stroke-linejoin="round" '
+                f'pathLength="1" stroke-dasharray="1" stroke-dashoffset="0">'
+                f'<animate attributeName="stroke-dashoffset" values="1;0;0;1" keyTimes="{kt}" dur="{T}s" repeatCount="indefinite"/></path>')
+    def dot(d, col):
+        return (f'<circle r="5" fill="{col}"><animateMotion dur="{T}s" repeatCount="indefinite" path="{d}" '
+                f'keyPoints="0;1;1;1" keyTimes="{kt}" calcMode="linear"/>'
+                f'<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.35;0.4;1" dur="{T}s" repeatCount="indefinite"/></circle>')
+    svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" font-family="{FONT}" role="img" aria-label="Animated training and validation loss curves">
+<rect x="0.5" y="0.5" width="{W - 1}" height="{H - 1}" rx="12" fill="{BG}" stroke="{LINE}"/>
+<text x="24" y="34" fill="{GREEN}" font-size="14" font-weight="700">$</text><text x="42" y="34" fill="{TEXT}" font-size="14">tensorboard --logdir runs/</text>
+<circle cx="590" cy="30" r="5" fill="{GREEN}"/><text x="602" y="34" fill="{GRAY}" font-size="12">train loss</text>
+<circle cx="684" cy="30" r="5" fill="{CYAN}"/><text x="696" y="34" fill="{GRAY}" font-size="12">val loss</text>
+{grid}
+<text x="{(x0 + x1) / 2}" y="{H - 14}" text-anchor="middle" fill="{GRAY}" font-size="11">epoch  (illustrative curve)</text>
+{line(d_va, CYAN, 2)}{line(d_tr, GREEN, 2.5)}{dot(d_va, CYAN)}{dot(d_tr, GREEN)}
+</svg>'''
+    (ASSETS / "loss-curve.svg").write_text(svg)
+
+
 if __name__ == "__main__":
     hero()
     neural()
     marquee()
     divider()
+    loss_curve()
     print("built:", ", ".join(sorted(p.name for p in ASSETS.glob("*.svg"))))
