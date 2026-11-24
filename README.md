@@ -118,8 +118,8 @@ $ git log --all --since="recent" --stat   # auto-updated every 6 hours
 <!--RECENT_START-->
 | Repo | What it is | Lang | Stars | Updated |
 | :-- | :-- | :-- | :-: | :-: |
-| [**UPI_Fraud_Detection**](https://github.com/prajwal-sv/UPI_Fraud_Detection) | Machine Learning based UPI Fraud Detection System using Python and Streamlit. | `Jupyter Notebook` | 1 | today |
 | [**AI-Learning-Career-Assistant**](https://github.com/prajwal-sv/AI-Learning-Career-Assistant) | AI-Powered Smart Learning & Career Assistant (course-long project) | `Jupyter Notebook` | 1 | today |
+| [**UPI_Fraud_Detection**](https://github.com/prajwal-sv/UPI_Fraud_Detection) | Machine Learning based UPI Fraud Detection System using Python and Streamlit. | `Jupyter Notebook` | 1 | today |
 | [**Deep-Learning**](https://github.com/prajwal-sv/Deep-Learning) |  | `Jupyter Notebook` | 0 | 1d ago |
 | [**mumbai-heat-aq-risk**](https://github.com/prajwal-sv/mumbai-heat-aq-risk) | Streamlit dashboard for 23 Mumbai monitoring stations: latest PM2.5, PM10 and temperature ... | `HTML` | 5 | 11d ago |
 | [**Machine-Learning**](https://github.com/prajwal-sv/Machine-Learning) |  This Machine Learning Python Repository serves as a comprehensive, end-to-end curriculum ... | `Jupyter Notebook` | 0 | 12d ago |
@@ -161,7 +161,7 @@ $ ./contributions --snake
 <img src="assets/divider.svg" alt="" width="100%" />
 
 <!--SYNC_START-->
-<sub>last synced: 2026-11-24 11:30 UTC</sub>
+<sub>last synced: 2026-11-24 21:51 UTC</sub>
 <!--SYNC_END-->
 
 `exit 0`
