@@ -1,6 +1,7 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:080808,35:300018,70:79001F,100:160B30&text=PRAJWAL%20WANKHEDE&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=NEURAL%20SHADOW%20%7C%20AI%2FML%20ENGINEER&descSize=17&descAlignY=60&descColor=FF4D6D" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:080808,35:300018,70:79001F,100:160B30&text=PRAJWAL%20WANKHEDE&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=NEURAL%
+20SHADOW%20%7C%20AI%2FML%20ENGINEER&descSize=17&descAlignY=60&descColor=FF4D6D" width="100%" />
 
 <!-- Replace this with your own anime samurai banner image URL when available -->
 
