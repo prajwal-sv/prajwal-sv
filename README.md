@@ -1,234 +1,159 @@
- <div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:080808,35:300018,70:79001F,100:160B30&text=PRAJWAL%20WANKHEDE&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=NEURAL%
-20SHADOW%20%7C%20AI%2FML%20ENGINEER&descSize=17&descAlignY=60&descColor=FF4D6D" width="100%" />
+<img src="assets/hero.svg" alt="Animated terminal: whoami, mission, skills, training a model" width="100%" />
 
-<!-- Replace this with your own anime samurai banner image URL when available -->
+<img src="assets/marquee.svg" alt="Technologies: Python, TensorFlow, PyTorch, scikit-learn, NLP, RAG, FastAPI and more" width="100%" />
 
-<img src="./assets/dark-anime-banner.gif" width="85%" alt="Dark anime samurai banner"/>
+<br>
 
-<br/>
+<a href="https://www.linkedin.com/in/prajwal-wankhede-22388628a"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=3FB950" alt="LinkedIn" /></a>
+<a href="https://leetcode.com/u/prajwal__sv/"><img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=3FB950" alt="LeetCode" /></a>
+<a href="mailto:prajwalwankhede890@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=3FB950" alt="Email" /></a>
+<img src="https://komarev.com/ghpvc/?username=prajwal-sv&style=for-the-badge&color=0D1117&labelColor=0D1117&label=VIEWS" alt="profile views" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2800&pause=900&color=FF3355&center=true&vCenter=true&width=800&lines=Welcome+to+my+digital+world+%F0%9F%8C%91;AI%2FML+Engineer+%F0%9F%A4%96;Machine+Learning+Enthusiast+%F0%9F%A7%A0;Experimenting+with+Artificial+Intelligence;Create+something+that+doesn't+exist+yet+%E2%9C%A8" alt="Typing animation"/>
-
-### ⚔️ AI/ML Engineer | Python Developer | Creative Experimenter
-
-**「Create something that doesn't exist yet.」**
-
-<br/>
-
-<a href="https://github.com/prajwal-sv">
-<img src="https://img.shields.io/badge/GitHub-prajwal--sv-171717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/prajwal-wankhede-22388628a">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="mailto:prajwalwankhede890@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-
-<img src="https://komarev.com/ghpvc/?username=prajwal-sv&style=for-the-badge&color=DC143C&label=PROFILE+VISITORS"/>
+<img src="assets/divider.svg" alt="" width="100%" />
 
 </div>
 
----
-
-## 🩸 ABOUT THE DEVELOPER
-
-<img align="right" width="240" src="./assets/anime-warrior.jpg" alt="Anime warrior"/>
-
-Hey! I'm **Prajwal Wankhede**, an AI/ML Engineer from India 🇮🇳.
-
-I'm passionate about exploring the intersection of artificial intelligence, data science, and real-world problem-solving.
-
-I enjoy experimenting with algorithms, transforming raw data into meaningful insights, and building intelligent applications.
-
-```python
-class Prajwal:
-
-    def __init__(self):
-        self.name = "Prajwal Wankhede"
-        self.username = "prajwal-sv"
-        self.location = "India 🇮🇳"
-        self.role = "AI/ML Engineer"
-        self.primary_language = "Python"
-
-        self.focus = [
-            "Machine Learning",
-            "Deep Learning",
-            "Computer Vision",
-            "NLP",
-            "RAG",
-            "Data Science"
-        ]
-
-        self.current_mission = "Build something extraordinary"
-
-    def motto(self):
-    
-        return "Create something that doesn't exist yet ✨"
-
-
-developer = Prajwal()
+```console
+$ cat about.md
 ```
 
-<br clear="right"/>
+> [!NOTE]
+> CS undergrad in **AI & ML** from Nagpur, India. I build scalable apps, turn raw data into decisions, solve DSA on LeetCode, and lead projects that ship.
 
----
+```console
+$ cat now.txt
+building   : data and ML projects, end to end (cleaning, EDA, models, dashboards)
+exploring  : RAG, NLP and computer vision
+practising : DSA on LeetCode
+motto      : "Create something that doesn't exist yet."
+```
 
-## ⚡ MY TECH ARSENAL
+<div align="center"><img src="assets/divider.svg" alt="" width="100%" /></div>
 
-<div align="center">
-
-### 💻 Programming Languages
-
-<img src="https://skillicons.dev/icons?i=python,cpp,c,mysql&theme=dark" />
-
-### 🧠 AI / Machine Learning
-
-<img src="https://img.shields.io/badge/Machine%20Learning-DC143C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-6A0DAD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-24292E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NLP-8B0000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-483D8B?style=for-the-badge"/>
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark"/>
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-
-### 📊 Data Science
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-
-### 🌐 Development & Frameworks
-
-<img src="https://skillicons.dev/icons?i=html,fastapi,flask,django,streamlit,mongodb,mysql&theme=dark"/>
-
-### 🛠️ Tools & Environment
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,jupyter&theme=dark"/>
-
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
-
-</div>
-
----
+```console
+$ ./neural_net --visualize
+```
 
 <div align="center">
-<a href="https://github.com/prajwal-sv/hotel-booking-analysis">
-<img src="https://img.shields.io/badge/Explore-Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore hotel booking analysis on GitHub"/>
-</a>
-
+  <img src="assets/neural.svg" alt="Animated neural network with signals passing between layers" width="100%" />
 </div>
 
-**📌 Project Overview**
+<br>
 
-An end-to-end Python data analysis project exploring approximately **119K hotel bookings** to understand cancellation patterns and protect booking revenue.
+```console
+$ cat how-i-build.md
+```
 
-**What I explored:**
+```mermaid
+%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#161b22','primaryBorderColor':'#3fb950','primaryTextColor':'#c9d1d9','lineColor':'#3fb950','fontFamily':'monospace'}}}%%
+flowchart LR
+    A[Raw data] --> B[Clean and EDA]
+    B --> C[Hypothesis tests]
+    C --> D[Model]
+    D --> E{Evaluate}
+    E -- iterate --> B
+    E -- ship --> F[Streamlit dashboard]
+```
 
-- Data cleaning and preprocessing.
-- Exploratory Data Analysis (EDA).
-- Five statistical hypothesis tests.
-- Cancellation patterns and booking behavior.
-- Revenue impact analysis.
-- Ranked recommendations for reducing cancellations.
+<div align="center"><img src="assets/divider.svg" alt="" width="100%" /></div>
 
-<details>
-<summary><b>📊 Key Findings</b></summary>
+```console
+$ ls skills/
+```
 
-- Approximately 27.7% of bookings were cancelled.
-- Cancelled bookings represented approximately 33% of booking value.
-- Statistical testing helped investigate patterns and support business recommendations.
-
+<details open>
+<summary><b>Languages and AI/ML</b></summary>
+<br>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,mysql,tensorflow,pytorch,sklearn&theme=dark" alt="languages and ML frameworks" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Keras-0D1117?style=for-the-badge&logo=keras&logoColor=3FB950" alt="Keras" />
+  <img src="https://img.shields.io/badge/NLP-0D1117?style=for-the-badge&logoColor=3FB950" alt="NLP" />
+  <img src="https://img.shields.io/badge/RAG-0D1117?style=for-the-badge&logoColor=3FB950" alt="RAG" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-0D1117?style=for-the-badge&logoColor=3FB950" alt="Computer Vision" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-0D1117?style=for-the-badge&logoColor=3FB950" alt="Deep Learning" />
+</div>
 </details>
 
-**Tech Stack:** Python · Pandas · NumPy · Matplotlib · Seaborn · Statistics
+<details>
+<summary><b>Data science, web and tools</b></summary>
+<br>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,html,fastapi,flask,django,streamlit,mongodb,git,github,vscode,docker,jupyter&theme=dark" alt="data, web and tools" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Matplotlib-0D1117?style=for-the-badge&logoColor=3FB950" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-0D1117?style=for-the-badge&logoColor=3FB950" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/Google%20Colab-0D1117?style=for-the-badge&logo=googlecolab&logoColor=3FB950" alt="Colab" />
+</div>
+</details>
 
-**Repository:** [Explore Hotel Booking Analysis](https://github.com/prajwal-sv/hotel-booking-analysis)
+<div align="center"><img src="assets/divider.svg" alt="" width="100%" /></div>
 
----
+```console
+$ ls -la ~/projects/featured
+```
+
+| Project | What it does | Stack |
+| :-- | :-- | :-- |
+| [**hotel-booking-analysis**](https://github.com/prajwal-sv/hotel-booking-analysis) | Analysis of 119K bookings: cleaning, EDA, 5 hypothesis tests and ranked recommendations to cut cancellations | `Python` `Jupyter` |
+| [**mumbai-heat-aq-risk**](https://github.com/prajwal-sv/mumbai-heat-aq-risk) | Streamlit dashboard for 23 Mumbai stations: PM2.5, PM10, temperature, station map and a data-quality page | `Python` `Streamlit` |
+| [**AI-Learning-Career-Assistant**](https://github.com/prajwal-sv/AI-Learning-Career-Assistant) | AI-powered smart learning and career assistant | `Python` `Jupyter` |
+
+```console
+$ git log --all --since="recent" --stat   # auto-updated every 6 hours
+```
+
+<!--RECENT_START-->
+| Repo | What it is | Lang | Stars | Updated |
+| :-- | :-- | :-- | :-: | :-: |
+| [**hotel-booking-analysis**](https://github.com/prajwal-sv/hotel-booking-analysis) | End-to-end analysis of 119K hotel bookings with hypothesis tests | `Jupyter Notebook` | 1 | - |
+| [**mumbai-heat-aq-risk**](https://github.com/prajwal-sv/mumbai-heat-aq-risk) | Streamlit dashboard for 23 Mumbai monitoring stations | `HTML` | 5 | - |
+| [**AI-Learning-Career-Assistant**](https://github.com/prajwal-sv/AI-Learning-Career-Assistant) | AI-powered smart learning and career assistant | `Jupyter Notebook` | 1 | - |
+| [**Algerian-Forest-Fires-Dataset---Project-**](https://github.com/prajwal-sv/Algerian-Forest-Fires-Dataset---Project-) | ML on Algerian forest-fire records | `Jupyter Notebook` | 0 | - |
+| [**Machine-Learning**](https://github.com/prajwal-sv/Machine-Learning) | End-to-end ML curriculum from Python to deployment | `Jupyter Notebook` | 0 | - |
+<!--RECENT_END-->
+
+<div align="center"><img src="assets/divider.svg" alt="" width="100%" /></div>
+
+```console
+$ gh stats && leetcode stats
+```
 
 <div align="center">
-
-## 📈 GITHUB STATISTICS
-
-<div align="center">
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prajwal-sv&theme=github_dark" alt="GitHub profile statistics" /><img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prajwal-sv&theme=github_dark" alt="Most used languages in public repositories" /><img width="32%" src="https://streak-stats.demolab.com?user=prajwal-sv&theme=dark&background=0D1117&ring=FF3355&fire=FF3355&currStreakLabel=FF3355&hide_border=true" alt="GitHub contribution streak" />
-
+  <img src="assets/stats.svg" alt="GitHub statistics: repos, stars, followers and top languages" width="100%" />
+  <br><br>
+  <img src="assets/leetcode.svg" alt="LeetCode progress: problems solved by difficulty" width="100%" />
 </div>
 
----
+<br>
 
-## 🔥 CONTRIBUTION ACTIVITY
+```console
+$ ./contributions --snake
+```
 
 <div align="center">
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prajwal-sv&theme=github_dark" alt="GitHub contribution activity and profile details" />
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prajwal-sv/prajwal-sv/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prajwal-sv/prajwal-sv/output/github-contribution-grid-snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/prajwal-sv/prajwal-sv/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </div>
 
----
+<br>
 
-## 🐍 THE CONTRIBUTION SNAKE
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/prajwal-sv/prajwal-sv/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation"/>
-
-</div>
-
----
-## 🎧 MY CODING SOUNDTRACK
+> [!TIP]
+> Working on something with ML, data, or RAG? I'd love to hear about it. The fastest way to reach me is [LinkedIn](https://www.linkedin.com/in/prajwal-wankhede-22388628a) or [email](mailto:prajwalwankhede890@gmail.com).
 
 <div align="center">
 
-**Current coding atmosphere:**
+<img src="assets/divider.svg" alt="" width="100%" />
 
-⚔️ Anime Soundtracks · Epic OSTs · Focus Mode
+<!--SYNC_START-->
+<sub>last synced: seed data</sub>
+<!--SYNC_END-->
 
-*Every great mission deserves a great soundtrack.*
-
-<!-- Optional: Add your Spotify widget when you have a Spotify profile -->
-
-</div>
-
----
-
-## 🌐 CONNECT WITH ME
-
-<div align="center">
-
-<a href="https://github.com/prajwal-sv">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/prajwal-wankhede-22388628a">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:prajwalwankhede890@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### ⚔️ FINAL TRANSMISSION
-
-**"The limits of my world are the limits of my imagination."**
-
-*Code with purpose. Experiment without fear. Create the impossible.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:160B30,45:79001F,100:080808&height=140&section=footer" width="100%"/>
+`exit 0`
 
 </div>
