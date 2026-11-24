@@ -75,6 +75,7 @@ $ ls skills/
   <img src="https://img.shields.io/badge/Computer%20Vision-0D1117?style=for-the-badge&logoColor=3FB950" alt="Computer Vision" />
   <img src="https://img.shields.io/badge/Deep%20Learning-0D1117?style=for-the-badge&logoColor=3FB950" alt="Deep Learning" />
 </div>
+<<<<<<< HEAD
 </details>
 
 <details>
@@ -125,6 +126,15 @@ $ gh stats && leetcode stats
   <img src="assets/stats.svg" alt="GitHub statistics: repos, stars, followers and top languages" width="100%" />
   <br><br>
   <img src="assets/leetcode.svg" alt="LeetCode progress: problems solved by difficulty" width="100%" />
+=======
+
+## 📈 GITHUB STATISTICS
+
+<div align="center">
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prajwal-sv&theme=github_dark" alt="GitHub profile statistics" /><img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prajwal-sv&theme=github_dark" alt="Most used languages in public repositories" /><img width="32%" src="https://streak-stats.demolab.com?user=prajwal-sv&theme=dark&background=0D1117&ring=FF3355&fire=FF3355&currStreakLabel=FF3355&hide_border=true" alt="GitHub contribution streak" />
+
+>>>>>>> 4bc692bf163df80f8d9754f444d6d1a201c3df11
 </div>
 
 <br>
