@@ -118,11 +118,19 @@ $ git log --all --since="recent" --stat   # auto-updated every 6 hours
 <!--RECENT_START-->
 | Repo | What it is | Lang | Stars | Updated |
 | :-- | :-- | :-- | :-: | :-: |
+<<<<<<< HEAD
 | [**hotel-booking-analysis**](https://github.com/prajwal-sv/hotel-booking-analysis) | End-to-end analysis of 119K hotel bookings with hypothesis tests | `Jupyter Notebook` | 1 | - |
 | [**mumbai-heat-aq-risk**](https://github.com/prajwal-sv/mumbai-heat-aq-risk) | Streamlit dashboard for 23 Mumbai monitoring stations | `HTML` | 5 | - |
 | [**AI-Learning-Career-Assistant**](https://github.com/prajwal-sv/AI-Learning-Career-Assistant) | AI-powered smart learning and career assistant | `Jupyter Notebook` | 1 | - |
 | [**Algerian-Forest-Fires-Dataset---Project-**](https://github.com/prajwal-sv/Algerian-Forest-Fires-Dataset---Project-) | ML on Algerian forest-fire records | `Jupyter Notebook` | 0 | - |
 | [**Machine-Learning**](https://github.com/prajwal-sv/Machine-Learning) | End-to-end ML curriculum from Python to deployment | `Jupyter Notebook` | 0 | - |
+=======
+| [**AI-Learning-Career-Assistant**](https://github.com/prajwal-sv/AI-Learning-Career-Assistant) | AI-Powered Smart Learning & Career Assistant (course-long project) | `Jupyter Notebook` | 1 | today |
+| [**UPI_Fraud_Detection**](https://github.com/prajwal-sv/UPI_Fraud_Detection) | Machine Learning based UPI Fraud Detection System using Python and Streamlit. | `Jupyter Notebook` | 2 | today |
+| [**Deep-Learning**](https://github.com/prajwal-sv/Deep-Learning) |  | `Jupyter Notebook` | 0 | 2d ago |
+| [**mumbai-heat-aq-risk**](https://github.com/prajwal-sv/mumbai-heat-aq-risk) | Streamlit dashboard for 23 Mumbai monitoring stations: latest PM2.5, PM10 and temperature ... | `HTML` | 5 | 12d ago |
+| [**Machine-Learning**](https://github.com/prajwal-sv/Machine-Learning) |  This Machine Learning Python Repository serves as a comprehensive, end-to-end curriculum ... | `Jupyter Notebook` | 0 | 13d ago |
+>>>>>>> f630f63ffb4ea07bdf8e1c99593d9828bd507132
 <!--RECENT_END-->
 
 <div align="center"><img src="assets/divider.svg" alt="" width="100%" /></div>
@@ -157,7 +165,11 @@ $ ./harvest --commits   # a drone sweeps my real contribution graph
 <img src="assets/divider.svg" alt="" width="100%" />
 
 <!--SYNC_START-->
+<<<<<<< HEAD
 <sub>last synced: seed data</sub>
+=======
+<sub>last synced: 2026-11-26 06:33 UTC</sub>
+>>>>>>> f630f63ffb4ea07bdf8e1c99593d9828bd507132
 <!--SYNC_END-->
 
 `exit 0`
