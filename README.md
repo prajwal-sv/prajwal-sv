@@ -118,11 +118,11 @@ $ git log --all --since="recent" --stat   # auto-updated every 6 hours
 <!--RECENT_START-->
 | Repo | What it is | Lang | Stars | Updated |
 | :-- | :-- | :-- | :-: | :-: |
-| [**AI-Learning-Career-Assistant**](https://github.com/prajwal-sv/AI-Learning-Career-Assistant) | AI-Powered Smart Learning & Career Assistant (course-long project) | `Jupyter Notebook` | 1 | today |
-| [**UPI_Fraud_Detection**](https://github.com/prajwal-sv/UPI_Fraud_Detection) | Machine Learning based UPI Fraud Detection System using Python and Streamlit. | `Jupyter Notebook` | 1 | today |
-| [**Deep-Learning**](https://github.com/prajwal-sv/Deep-Learning) |  | `Jupyter Notebook` | 0 | 1d ago |
-| [**mumbai-heat-aq-risk**](https://github.com/prajwal-sv/mumbai-heat-aq-risk) | Streamlit dashboard for 23 Mumbai monitoring stations: latest PM2.5, PM10 and temperature ... | `HTML` | 5 | 11d ago |
-| [**Machine-Learning**](https://github.com/prajwal-sv/Machine-Learning) |  This Machine Learning Python Repository serves as a comprehensive, end-to-end curriculum ... | `Jupyter Notebook` | 0 | 12d ago |
+| [**hotel-booking-analysis**](https://github.com/prajwal-sv/hotel-booking-analysis) | End-to-end analysis of 119K hotel bookings with hypothesis tests | `Jupyter Notebook` | 1 | - |
+| [**mumbai-heat-aq-risk**](https://github.com/prajwal-sv/mumbai-heat-aq-risk) | Streamlit dashboard for 23 Mumbai monitoring stations | `HTML` | 5 | - |
+| [**AI-Learning-Career-Assistant**](https://github.com/prajwal-sv/AI-Learning-Career-Assistant) | AI-powered smart learning and career assistant | `Jupyter Notebook` | 1 | - |
+| [**Algerian-Forest-Fires-Dataset---Project-**](https://github.com/prajwal-sv/Algerian-Forest-Fires-Dataset---Project-) | ML on Algerian forest-fire records | `Jupyter Notebook` | 0 | - |
+| [**Machine-Learning**](https://github.com/prajwal-sv/Machine-Learning) | End-to-end ML curriculum from Python to deployment | `Jupyter Notebook` | 0 | - |
 <!--RECENT_END-->
 
 <div align="center"><img src="assets/divider.svg" alt="" width="100%" /></div>
@@ -140,15 +140,11 @@ $ gh stats && leetcode stats
 <br>
 
 ```console
-$ ./contributions --snake
+$ ./harvest --commits   # a drone sweeps my real contribution graph
 ```
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prajwal-sv/prajwal-sv/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prajwal-sv/prajwal-sv/output/github-contribution-grid-snake.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/prajwal-sv/prajwal-sv/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
+  <img src="assets/harvest.svg" alt="A scanner drone sweeps my contribution graph and energizes every active day" width="100%" />
 </div>
 
 <br>
@@ -161,7 +157,7 @@ $ ./contributions --snake
 <img src="assets/divider.svg" alt="" width="100%" />
 
 <!--SYNC_START-->
-<sub>last synced: 2026-11-25 06:42 UTC</sub>
+<sub>last synced: seed data</sub>
 <!--SYNC_END-->
 
 `exit 0`

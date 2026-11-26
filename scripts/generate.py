@@ -217,6 +217,12 @@ def main():
     stamp = "seed data" if SEED else dt.datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
     text = replace_block(text, "SYNC", f"<sub>last synced: {stamp}</sub>")
     README.write_text(text)
+    try:
+        sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
+        import build_game
+        build_game.build()
+    except Exception as e:
+        print("harvest build failed:", e)
     print("done:", "seed" if SEED else "live")
 
 

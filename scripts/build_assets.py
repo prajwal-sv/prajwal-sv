@@ -217,6 +217,7 @@ def loss_curve():
     (ASSETS / "loss-curve.svg").write_text(svg)
 
 
+
 if __name__ == "__main__":
     hero()
     neural()
